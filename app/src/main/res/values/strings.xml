@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson_1027_3</string>
+    <string-array name="top">
+        <item>桌上型電腦</item>
+        <item>筆記型電腦</item>
+        <item>平板電腦</item>
+        <item>智慧型手機</item>
+    </string-array>
+</resources>
